@@ -25,3 +25,13 @@ Hospital and doctor metadata<img width="531" height="579" alt="Screenshot 2026-0
 ## Tools Used
 Microsoft Excel: Data cleaning & preprocessing
 Power BI: Dashboard building & data visualization
+
+## Key Insights
+Majority of admissions are Elective (33.61%) and Emergency (33.47%)
+Highest average billing occurs in patients aged 36–50
+Length of stay averages at 15.51 days
+Billing and patient volume vary significantly across hospitals
+
+## <img width="1036" height="578" alt="Screenshot 2026-02-01 005726" src="https://github.com/user-attachments/assets/4cff07c3-6362-4960-85cb-c92dd9a97057" />
+Conclusion
+This dashboard provides a high-level overview of healthcare metrics, supporting strategic analysis for improving hospital resource planning, patient management, and billing efficiency. It can serve as a foundational tool for healthcare analysts or managers.
