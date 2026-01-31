@@ -19,7 +19,8 @@ Fields include:
 Patient demographics (Age, Gender)
 Admission and discharge details
 Medical condition & billing information
-Hospital and doctor metadata<img width="531" height="579" alt="Screenshot 2026-02-01 005412" src="https://github.com/user-attachments/assets/19e973e5-fcff-410e-80e0-284447ca23aa" />
+Hospital and doctor metadata
+<img width="531" height="579" alt="Screenshot 2026-02-01 005412" src="https://github.com/user-attachments/assets/19e973e5-fcff-410e-80e0-284447ca23aa" />
 
 
 ## Tools Used
